@@ -23,7 +23,7 @@ Application Next.js pour la visualisation et l'analyse de parcelles cadastrales 
 ```bash
 # Cloner le projet
 git clone <repo-url>
-cd archi-mini
+cd imo
 
 # Installer les dépendances
 npm install
@@ -54,7 +54,7 @@ Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 ## 📁 Structure du projet
 
 ```
-archi-mini/
+imo/
 ├── app/
 │   ├── components/          # Composants React
 │   │   ├── Header.tsx
